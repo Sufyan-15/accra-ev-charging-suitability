@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Accra EV-Charging Suitability"
+type: software
+authors:
+  - family-names: "Yakubu"
+    given-names: "Sufyan"
+repository-code: "https://github.com/Sufyan-15/accra-ev-charging-suitability"
+abstract: "A Python-based GIS and multi-criteria decision analysis workflow for prioritising existing fuel stations for electric vehicle charging infrastructure in metropolitan Accra, Ghana."
+keywords:
+  - "electric vehicle charging"
+  - "GIS"
+  - "multi-criteria decision analysis"
+  - "spatial suitability"
+  - "fuel stations"
+  - "Accra"
+license: "MIT"
